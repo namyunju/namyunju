@@ -3,4 +3,4 @@
 SSAFY 14기
 
 Python 
-C++ 공부 중
+Java C++ 공부 중
