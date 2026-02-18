@@ -3,4 +3,3 @@
 SSAFY 14기
 
 Python 
-Java C++ 공부
