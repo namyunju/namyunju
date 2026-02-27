@@ -3,3 +3,5 @@
 SSAFY 14기
 
 Python 
+
+SQLD
