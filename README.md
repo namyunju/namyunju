@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yoonju Nam
+# 👋 Hi, I'm Yunju Nam
 
 Backend Developer | SSAFY 14th
 
