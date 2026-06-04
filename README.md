@@ -5,12 +5,6 @@
 
 <div align="center">
 
-```
-// github.com/namyunju
-```
-
-# nam **yunju**
-
 Backend Developer &nbsp;·&nbsp; SSAFY 14th &nbsp;·&nbsp; Math × Code
 
 </div>
@@ -19,7 +13,6 @@ Backend Developer &nbsp;·&nbsp; SSAFY 14th &nbsp;·&nbsp; Math × Code
 
 ### about
 
-수학교육을 전공하고 소프트웨어 개발로 전환했습니다.  
 **AI Agent, LangGraph, FastAPI**를 주로 다루며  
 데이터 흐름과 시스템 구조를 설계하는 일을 좋아합니다.
 
