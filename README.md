@@ -3,18 +3,10 @@
   namyunju/namyunju 레포지토리에 이 파일을 넣으면 프로필에 표시됩니다.
 -->
 
-<div align="center">
-
-Backend Developer &nbsp;·&nbsp; SSAFY 14th &nbsp;·&nbsp; Math × Code
-
-</div>
 
 ---
 
 ### about
-
-**AI Agent, LangGraph, FastAPI**를 주로 다루며  
-데이터 흐름과 시스템 구조를 설계하는 일을 좋아합니다.
 
 ---
 
