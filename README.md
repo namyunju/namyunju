@@ -1,46 +1,62 @@
-<!--
-  github.com/namyunju — Profile README
-  namyunju/namyunju 레포지토리에 이 파일을 넣으면 프로필에 표시됩니다.
--->
+# 👋 Hi, I'm Yoonju Nam
 
+Backend Developer | SSAFY 14th
 
 ---
 
-### about
+## 🛠 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### DevOps & Environment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+
+### Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ---
 
-### tech stack
+## 🚀 Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=flat-square&logo=vue.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+| Project         | Description              | Role                       |
+| --------------- | ------------------------ | -------------------------- |
+| **GluCoach**    | AI 기반 개인 맞춤형 혈당 관리 플랫폼   | Backend, AI Agent          |
+| **기지국수집**       | LLM 기반 통신 기지국 데이터 분석 플랫폼 | Report Generation AI Agent |
+| **Life-Savior** | 재난 상황을 위한 오프라인 구조 지원 앱   | Sensor Data Processing     |
 
 ---
 
-### projects
+## 🎓 Education
 
-| 프로젝트 | 설명 | 역할 |
-|---|---|---|
-| **기지국수집** | 삼성전자 네트워크사업부 시장품질 빅데이터 처리 플랫폼. NL-to-SQL, LangGraph 5단계 파이프라인, 자동 보고서 생성 | AI · Backend |
-| **Glucoach** | 화이바이오메드 연계 CGM 혈당 관리 앱. LSTM 예측 모델, UVA/Padova 시뮬레이터, AI Agent 선제 제안 시스템 | AI · MLOps |
-| **LifeSaivior** | 통신 음영 지역 On-Device AI + BLE/WiFi 하이브리드 P2P 솔루션. 센서 데이터 처리 담당 | IoT · Android |
-| **FinPal** | 생성형 AI 기반 금융 상품 추천 웹 애플리케이션 | Vue · Django |
+* SSAFY 14th
+* B.S. in Mathematics Education, Pusan National University
 
 ---
 
-### contact
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/github.com/namyunju-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namyunju)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID\&show_icons=true)
 
----
-
-<div align="right">
-<sub>last updated · 2026</sub>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID\&layout=compact)
