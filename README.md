@@ -3,7 +3,6 @@
 AI & Backend Developer | SSAFY 14th
 
 ---
-
 ## 🛠 Tech Stack
 
 ### Backend
