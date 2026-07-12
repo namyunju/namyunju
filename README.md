@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yunju Nam
 
-AI & Backend Developer | SSAFY 14th
+AI & Backend Developer 
+SSAFY 14th
 
 ---
 ## 🛠 Tech Stack
