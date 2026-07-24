@@ -41,7 +41,7 @@ SSAFY 14th
 
 | Project         | Description              | Role                       |
 | --------------- | ------------------------ | -------------------------- |
-| **GluCoach**    | AI 기반 개인 맞춤형 혈당 관리 플랫폼   | Backend, AI Agent          |
+| **GluCoach**    | AI 기반 개인 맞춤형 혈당 관리 플랫폼   | Backend, AI          |
 | **기지국수집**       | LLM 기반 통신 기지국 데이터 분석 플랫폼 | Report Generation AI Agent |
 | **Life-Savior** | 재난 상황을 위한 오프라인 구조 지원 앱   | Sensor Data Processing     |
 
