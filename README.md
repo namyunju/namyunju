@@ -40,12 +40,11 @@ SSAFY 14th
 
 ## 🚀 Projects
 
-| Project         | Description              | Role                       |
-| --------------- | ------------------------ | -------------------------- |
-| **GluCoach**    | AI 기반 개인 맞춤형 혈당 관리 플랫폼   | Backend, AI          |
-| **기지국수집**       | LLM 기반 통신 기지국 데이터 분석 플랫폼 | Report Generation AI Agent |
-| **Life-Savior** | 재난 상황을 오프라인 구조 지원 앱   | Sensor Data Processing     |
-
+| Project | Description | My Contribution |
+| :--- | :--- | :--- |
+| **GluCoach** | AI 기반 개인 맞춤형 혈당 관리 플랫폼 | 백엔드 및 AI 기능 개발 |
+| **기지국수집** | LLM 기반 통신 기지국 데이터 분석 플랫폼 | 보고서 생성 AI Agent 개발 |
+| **Life-Savior** | 재난 상황에서 오프라인으로 구조 활동을 지원하는 앱 | 센서 데이터 처리 |
 ---
 
 ## 🎓 Education
@@ -54,9 +53,3 @@ SSAFY 14th
 * B.S. in Mathematics Education, Pusan National University
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID\&layout=compact)
