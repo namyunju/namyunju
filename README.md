@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yunju Nam
+# Hi, I'm Yunju Nam
 
 AI & Backend Developer 
 
